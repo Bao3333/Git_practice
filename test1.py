@@ -1,4 +1,4 @@
 a = 1
 b = 2
 c = a+b
-a+b-c
+d = a + b - c
